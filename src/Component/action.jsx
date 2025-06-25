@@ -1,6 +1,6 @@
 import React from 'react'
 
-const action = () => {
+const Action = () => {
   return (
     <>
       <div className="flex flex-col justify-around items-center bg-pink-500 md:flex-row bg-red-400 text-center py-10 py-10 space-y-4 rounded-2xl">
@@ -11,4 +11,4 @@ const action = () => {
   )
 }
 
-export default action
+export default Action
