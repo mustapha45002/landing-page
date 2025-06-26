@@ -8,7 +8,7 @@ const Features = () => {
 
         {/* Part 1 */}
         <div className="w-full md:w-2/5 flex flex-col">
-          <h2 className="font-bold text-4xl ">What’s different about Manage?</h2>
+          <h2 className="font-bold text-4xl pb-1">What’s different about Manage?</h2>
           <p className="text-gray-400">
             Manage simplifies your team workflows with efficient collaboration, tracking, and alignment.
           </p>

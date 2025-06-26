@@ -37,7 +37,7 @@ const Features_2 = () => {
         {/* part-3 => button */}
         <div className="flex flex-row justify-center">
 
-          <a href="/#" className="baseline px-4 py-0 mt-10 text-white bg-red-400 hover:bg-red-600 rounded-2xl transition duration-200">
+          <a href="/#" className="baseline px-4 py-0 mt-6 text-white bg-red-400 hover:bg-red-600 rounded-2xl transition duration-200">
             Get Start
           </a>
 
