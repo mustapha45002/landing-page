@@ -4,7 +4,7 @@ const Features = () => {
   return (
     <>
       {/* Container */}
-      <div className="container flex flex-col md:flex-row justify-around items-center bg-white mx-auto py-10 gap-6 text-center rounded-2xl">
+      <div className="container flex flex-col md:flex-row justify-around items-center mx-auto p-2 gap-6 text-center">
 
         {/* Part 1 */}
         <div className="w-full md:w-2/5 flex flex-col">

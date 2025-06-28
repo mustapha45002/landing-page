@@ -4,7 +4,7 @@ import me from '../assets/me.jpg'
 const Features_2 = () => {
   return (
     <>
-      <div className='container mx-auto py-10 bg-gray-100 rounded-2xl'>
+      <div className='container mx-auto py-4'>
 
         {/* part-1 */}
         <h1 className='font-bold  text-center text-3xl mb-22'>What's different about Manage?</h1>

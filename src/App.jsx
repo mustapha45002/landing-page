@@ -4,6 +4,7 @@ import Features from './Component/Features.jsx'
 import Features_2 from './Component/Features_2.jsx'
 import Action from './Component/Action.jsx'
 import Footer from './Component/Footer.jsx'
+import Border from './Component/Border.jsx'
 
 
 
@@ -11,14 +12,17 @@ function App() {
 
   return (
     <>
-      <div className='bg-gray-50'>
+      <div className=''>
 
-    <Nav/>
-    <Hero/>
-    <Features/>
-    <Features_2/>
-    <Action/>
-    <Footer/>
+        <Nav />
+        <Hero />
+        <Border />
+        <Features />
+        <Border />
+        <Features_2 />
+        <Border />
+        <Action />
+        <Footer />
       </div>
     </>
   )
