@@ -20,7 +20,6 @@ function App() {
         <Features />
         <Border />
         <Features_2 />
-        <Border />
         <Action />
         <Footer />
       </div>
